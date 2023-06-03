@@ -1,4 +1,4 @@
-# 💰 HeliSwap Dex Frontend
+# 💰 BEMD Dex Frontend
 
 Node version: `16.14.2`
 
