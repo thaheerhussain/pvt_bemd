@@ -1,0 +1,79 @@
+{
+  "name": "Betterment digital Whitelisted",
+  "timestamp": "2022-07-29T15:57:01.868Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs/QmYTdakJSFDCAGDqLsKmW166h7G8EnwH16mq1C4Nii16ow/HELI.png",
+  "keywords": ["BEMD", "default"],
+  "tokens": [
+    {
+      "chainId": 295,
+      "address": "0x00000000000000000000000000000000000F7e89",
+      "name": "Betterment Digital",
+      "symbol": "BEMD",
+      "decimals": 18,
+      "logoURI": "https://bettermentdigital.co/logo.png"
+    },
+    {
+      "chainId": 295,
+      "address": "0x000000000000000000000000000000000008437c",
+      "name": "Wrapped Ether[hts]",
+      "symbol": "WETH[hts]",
+      "decimals": 8,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmYTdakJSFDCAGDqLsKmW166h7G8EnwH16mq1C4Nii16ow/ETH.svg"
+    },
+    {
+      "chainId": 295,
+      "address": "0x0000000000000000000000000000000000101Ae3",
+      "name": "USD Coin",
+      "symbol": "USDC[hts]",
+      "decimals": 6,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmYTdakJSFDCAGDqLsKmW166h7G8EnwH16mq1C4Nii16ow/USDC.png"
+    },
+    {
+      "chainId": 295,
+      "address": "0x000000000000000000000000000000000006f89a",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmYTdakJSFDCAGDqLsKmW166h7G8EnwH16mq1C4Nii16ow/USDC.png"
+    },
+    {
+      "chainId": 295,
+      "address": "0x0000000000000000000000000000000000101aF0",
+      "name": "Tether USD",
+      "symbol": "USDT[hts]",
+      "decimals": 6,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmYTdakJSFDCAGDqLsKmW166h7G8EnwH16mq1C4Nii16ow/USDT.png"
+    },
+    {
+      "chainId": 295,
+      "address": "0x0000000000000000000000000000000000101aFb",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC[hts]",
+      "decimals": 8,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmYTdakJSFDCAGDqLsKmW166h7G8EnwH16mq1C4Nii16ow/WBTC.png"
+    },
+    
+    {
+      "chainId": 295,
+      "address": "0x0000000000000000000000000000000000101Af5",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI[hts]",
+      "decimals": 8,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmYTdakJSFDCAGDqLsKmW166h7G8EnwH16mq1C4Nii16ow/DAI.png"
+    },
+    {
+      "chainId": 295,
+      "address": "0x0000000000000000000000000000000000083E9E",
+      "name": "Wrapped Matic[hts]",
+      "symbol": "WMATIC[hts]",
+      "decimals": 8,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmYTdakJSFDCAGDqLsKmW166h7G8EnwH16mq1C4Nii16ow/WMATIC.webp"
+    }
+  ]
+}

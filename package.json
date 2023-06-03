@@ -1,0 +1,70 @@
+{
+  "name": "heliswap-dex",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "@hashgraph/hethers": "^1.1.2",
+    "@hashgraph/sdk": "^2.16.6",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.1.1",
+    "@testing-library/user-event": "^13.5.0",
+    "@tippyjs/react": "^4.2.6",
+    "@types/jest": "^27.4.1",
+    "@types/lodash": "^4.14.182",
+    "@types/node": "^18.0.0",
+    "@types/numeral": "^2.0.2",
+    "@types/react": "^18.0.14",
+    "@types/react-dom": "^18.0.5",
+    "@types/react-gtm-module": "^2.0.1",
+    "axios": "^0.27.2",
+    "bignumber.js": "^9.0.2",
+    "bootstrap": "^5.2.2",
+    "dayjs": "^1.11.5",
+    "ethers": "^5.7.2",
+    "graphql": "^16.5.0",
+    "hashconnect": "^0.2.3",
+    "lodash": "^4.17.21",
+    "numeral": "^2.0.6",
+    "qrcode.react": "^3.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-gtm-module": "^2.0.11",
+    "react-hot-toast": "^2.3.0",
+    "react-paginate": "^8.1.3",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.1.14",
+    "sass": "^1.53.0",
+    "ts-md5": "^1.2.11",
+    "typescript": "^4.7.4",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "GENERATE_SOURCEMAP=false HTTPS=true SSL_CRT_FILE=./.cert/cert.pem SSL_KEY_FILE=./.cert/key.pem react-scripts start",
+    "build": "GENERATE_SOURCEMAP=false react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "resolutions": {
+    "autoprefixer": "10.4.5"
+  }
+}

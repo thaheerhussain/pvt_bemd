@@ -1,0 +1,46 @@
+{
+  "name": "Betterment Digital",
+  "timestamp": "2022-07-29T15:57:01.868Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs/QmSmHsoeapmRKpz7bgeYto4EgQmuZZMkuZc5ViWqLptQjJ/HELI.png",
+  "keywords": ["heliswap", "default"],
+  "tokens": [
+    {
+      "chainId": 290,
+      "address": "0x0000000000000000000000000000000000001c3D",
+      "name": "Betterment Digital",
+      "symbol": "BEMD",
+      "decimals": 18,
+      "logoURI": "https://bettermentdigital.co/logo.png"
+    },
+    {
+      "chainId": 290,
+      "address": "0x0000000000000000000000000000000000001fFF",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmSmHsoeapmRKpz7bgeYto4EgQmuZZMkuZc5ViWqLptQjJ/USDC.png"
+    },
+    {
+      "chainId": 290,
+      "address": "0x0000000000000000000000000000000000002020",
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
+      "decimals": 8,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmSmHsoeapmRKpz7bgeYto4EgQmuZZMkuZc5ViWqLptQjJ/WETH.png"
+    },
+    {
+      "chainId": 290,
+      "address": "0x0000000000000000000000000000000000002016",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmSmHsoeapmRKpz7bgeYto4EgQmuZZMkuZc5ViWqLptQjJ/WBTC.png"
+    }
+  ]
+}
